@@ -1,10 +1,3 @@
-# Developer's Note: This is a sample _config.yml file offered with
-# jekyll-theme-prologue for your convenience. To use it, move it to your
-# project's root directory. Please note that the following lines are
-# NECESSARY for Prologue to work correctly:
-#
-# theme: jekyll-theme-prologue
-# collections: [sections]
 #
 # They activate the theme and tell Jekyll to find your homepage content
 # in /_sections. Note where "sections" starts with an underscore
@@ -35,9 +28,9 @@ subtitle: The website for the Self-Driving Car Club at the University of Minneso
 # description: >- # this means to ignore newlines until "baseurl:"
 #   This is the demo site for a Jekyll theme version of
 #   HTML5 UP's sleek, responsive site template Prologue.
-author: SDCC Officers
+author:
 email: sdcc@umn.edu
-#avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: # the subpath of your site, e.g. /blog
